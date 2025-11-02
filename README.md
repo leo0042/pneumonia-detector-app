@@ -14,7 +14,7 @@ This project was built as an end-to-end portfolio piece, covering every stage fr
 
 ## 📷 App Preview
 
-![app_screenshot.png]
+![Pneumonia Detector App Screenshot](app_screenshot.png)
 
 
 ---
