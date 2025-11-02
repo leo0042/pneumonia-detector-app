@@ -1,0 +1,15 @@
+# Ignore the Python virtual environment
+venv/
+/venv/
+
+# Ignore the large dataset folder
+chest_xray/
+/chest_xray/
+
+# Ignore the downloaded zip file (if it's still there)
+archive.zip
+
+# Ignore system files and caches
+.DS_Store
+*.pyc
+__pycache__/ 
