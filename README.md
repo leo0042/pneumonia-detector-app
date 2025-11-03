@@ -6,6 +6,14 @@ This project was built as an end-to-end portfolio piece, covering every stage fr
 
 ---
 
+## 🎯 The Problem & Business Value
+
+Pneumonia is a leading cause of death, especially in developing countries. Early and accurate diagnosis is critical for effective treatment. However, access to expert radiologists can be limited.
+
+**This project builds a deep learning tool that acts as an "AI second opinion" for medical professionals.** It analyzes a chest X-ray to instantly classify it as "Normal" or "Pneumonia," helping to flag potential cases faster and more accessibly.
+
+---
+
 ## 🚀 Live App
 
 **You can try the live app here:** [https://pneumonia-detector-app-cdatbuuxairyfkyufjymbd.streamlit.app/]
@@ -14,7 +22,7 @@ This project was built as an end-to-end portfolio piece, covering every stage fr
 
 ## 📷 App Preview
 
-![Pneumonia Detector App Screenshot](app_screenshot.png)
+![Pneumonia Detector App demo](demo.gif)
 
 
 ---
